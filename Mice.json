@@ -1,0 +1,167 @@
+[
+  {
+    "Id": "1",  
+    "PRODUCT": "Corsair Dark Core RGB PRO Wireless Gaming Mouse",
+    "GRAPHIC": "placeholderpicture1",
+    "COST": "99.99",
+    "MSRP": "119.99",
+    "STOCK": "10",
+    "BACKORDERQTY": "0",
+    "DESCRIPTION": "The CORSAIR DARK CORE RGB PRO helps you win without wires, boasting sub-1ms SLIPSTREAM WIRELESS, a custom 18,000 DPI optical sensor optimized for wireless mice, and hyper-polling technology up to 2,000Hz.",
+    "Brand": "Corsair"
+  },
+  {
+    "Id": "2",  
+    "PRODUCT": "M55 RGB PRO Ambidextrous Multi-Grip Gaming Mouse — White",
+    "GRAPHIC": "placeholderpicture2",
+    "COST": "44.99",
+    "MSRP": "54.99",
+    "STOCK": "8",
+    "BACKORDERQTY": "0",
+    "DESCRIPTION": "The CORSAIR M55 RGB PRO Gaming Mouse offers game-winning versatility with an ambidextrous design that fits any grip or hand, and a highly precise 12,400 DPI optical sensor.",
+    "Brand": "Corsair"
+  },
+  {
+    "Id": "3",  
+    "PRODUCT": "IRONCLAW RGB WIRELESS Gaming Mouse",
+    "GRAPHIC": "placeholderpicture3",
+    "COST": "99.99",
+    "MSRP": "119.99",
+    "STOCK": "2",
+    "BACKORDERQTY": "1",
+    "DESCRIPTION": "The CORSAIR IRONCLAW RGB WIRELESS Gaming Mouse combines a native 18,000 DPI optical sensor with a comfortable palm grip, connecting to your PC via hyper-fast, sub-1ms SLIPSTREAM CORSAIR WIRELESS TECHNOLOGY, Bluetooth or USB wired connection.",
+    "Brand": "Corsair"
+  },
+  {
+    "Id": "4",  
+    "PRODUCT": "IRONCLAW RGB FPS/MOBA Gaming Mouse",
+    "GRAPHIC": "placeholderpicture4",
+    "COST": "69.99",
+    "MSRP": "89.99",
+    "STOCK": "7",
+    "BACKORDERQTY": "0",
+    "DESCRIPTION": "The CORSAIR IRONCLAW RGB Gaming Mouse combines a performance 18,000 DPI precision optical sensor with a 105g lightweight body and contoured shape that’s sculpted specifically for palm-grips and larger hands.",
+    "Brand": "Corsair"
+  },
+  {
+    "Id": "5",  
+    "PRODUCT": "HARPOON RGB WIRELESS Gaming Mouse",
+    "GRAPHIC": "placeholderpicture5",
+    "COST": "69.99",
+    "MSRP": "79.99",
+    "STOCK": "0",
+    "BACKORDERQTY": "10",
+    "DESCRIPTION": "The CORSAIR HARPOON RGB WIRELESS gaming mouse lets you choose how to play, with the ability to easily connect to your PC via hyper-fast, sub-1ms SLIPSTREAM CORSAIR WIRELESS TECHNOLOGY, Bluetooth or USB wired connection.",
+    "Brand": "Corsair"
+  },
+  {
+    "Id": "6",  
+    "PRODUCT": "Razer Basilisk",
+    "GRAPHIC": "placeholderpicture6",
+    "COST": "74.99",
+    "MSRP": "94.99",
+    "STOCK": "3",
+    "BACKORDERQTY": "0",
+    "DESCRIPTION": "Fast. Accurate. Deadly. Take your FPS skills to the next level with the Razer Basilisk. Boasting the most advanced optical sensor in the world and armed with features such as a dial for customizing scroll wheel resistance and a removable DPI clutch, the Razer Basilisk is the ultimate FPS mouse.",
+    "BRAND": "Razer"
+  },
+  {
+    "Id": "7",  
+    "PRODUCT": "Razer Naga Trinity",
+    "GRAPHIC": "placeholderpicture7",
+    "COST": "109.99",
+    "MSRP": "129.99",
+    "STOCK": "4",
+    "BACKORDERQTY": "1",
+    "DESCRIPTION": "Experience the power of total control in your hand, no matter what game you play. Designed to provide you that edge you need in MOBA/MMO gameplay, the Razer Naga Trinity lets you configure your mouse for everything from weapons to build customizations so you’ll always be ahead of the competition.",
+    "BRAND": "Razer"
+  },
+  {
+    "Id": "8",  
+    "PRODUCT": "Razer Deathadder Essential",
+    "GRAPHIC": "placeholderpicture8",
+    "COST": "59.99",
+    "MSRP": "69.99",
+    "STOCK": "10",
+    "BACKORDERQTY": "0",
+    "DESCRIPTION": "For more than a decade, the Razer DeathAdder line has been a mainstay in the global esports arena. It has garnered a reputation for reliability that gamers swear by due to its proven durability and ergonomics. Now, we’re making it even more accessible with its latest successor—the Razer DeathAdder Essential.",
+    "BRAND": "Razer"
+  },
+  {
+    "Id": "9",  
+    "PRODUCT": "Razer Lancehead Tournament Edition",
+    "GRAPHIC": "placeholderpicture9",
+    "COST": "109.99",
+    "MSRP": "119.99",
+    "STOCK": "12",
+    "BACKORDERQTY": "0",
+    "DESCRIPTION": "Equipped with an esports-grade optical sensor that has true 16,000 DPI and true tracking at 450 Inches Per Second (IPS), the Razer Lancehead Tournament Edition gives you the absolute advantage of having the fastest sensor in the world. This incredible mouse sensor crushes the competition with a Resolution Accuracy of 99.4%, so you can land more killing blows with pinpoint precision.",
+    "BRAND": "Razer"
+  },
+  {
+    "Id": "10",  
+    "PRODUCT": "Razer Abyssus Essential",
+    "GRAPHIC": "placeholderpicture10",
+    "COST": "54.99",
+    "MSRP": "64.99",
+    "STOCK": "0",
+    "BACKORDERQTY": "2",
+    "DESCRIPTION": "Enjoy long-lasting comfort even during long hours of intense gameplay. It’s also perfectly lightweight, great for high-speed moves.",
+    "BRAND": "Razer"
+  },
+  {
+    "Id": "11",  
+    "PRODUCT": "ASUS ROG Gladius II",
+    "GRAPHIC": "placeholderpicture11",
+    "COST": "109.99",
+    "MSRP": "129.99",
+    "STOCK": "0",
+    "BACKORDERQTY": "5",
+    "DESCRIPTION": "Arm yourself and take aim with the ROG Gladius II optical gaming mouse, the successor to the original Gladius and the next step in the evolution of the ultimate gaming mouse. The Gladius II has an advanced 12000 DPI optical sensor and DPI target button for maximum sniping accuracy – your enemies can run, but they can't hide. And with ASUS Aura Sync lighting technology, you'll outshine the competition.",
+    "BRAND": "Asus"
+  },
+  {
+    "Id": "12",  
+    "PRODUCT": "ASUS TUF Gaming M3",
+    "GRAPHIC": "placeholderpicture12",
+    "COST": "5.99",
+    "MSRP": "29.99",
+    "STOCK": "6",
+    "BACKORDERQTY": "0",
+    "DESCRIPTION": "TUF Gaming M3 is a compact gaming mouse that delivers the comfort, performance and reliability that gamers demand. It's ergonomic and lightweight for prolonged campaigns, with a high-precision optical sensor that gives you an edge in battle. Backed by 20-million-click switches and a specialized coating for exceptional durability, M3 is validated for tough duty. It also features customizable Aura Sync RGB lighting so you can dominate in personalized style.",
+    "BRAND": "Asus"
+  },
+  {
+	  "Id": "13",
+    "PRODUCT": "ASUS ROG Strix Evolve ",
+    "GRAPHIC": "placeholderpicture13",
+    "COST": "62.88",
+    "MSRP": "82.88",
+    "STOCK": "2",
+    "BACKORDERQTY": "0",
+    "DESCRIPTION": "ROG Strix Evolve optical gaming mouse features easily changeable modular top covers that enable four different ergonomic styles, ensuring the best comfort for both right- and left-handed gamers. Together with stylish and customizable ASUS Aura RGB lighting, ROG Strix Evolve is a precision weapon with a personalized look and feel that is ready to help you achieve total gaming victory.",
+    "BRAND": "Asus"
+  },
+  {
+	  "Id": "14",
+    "PRODUCT": "ASUS ROG Pugio II",
+    "GRAPHIC": "placeholderpicture14",
+    "COST": "109.99",
+    "MSRP": "119.99",
+    "STOCK": "10",
+    "BACKORDERQTY": "0",
+    "DESCRIPTION": "The ambidextrous ROG Pugio II gaming mouse has leveled up to become premier choice for the fastest, fittest and finest gamers. Inheriting the iconic style of the original Pugio, the all-new Pugio II boasts tri-mode wireless or wired connectivity, customizable side buttons and delivers long-lasting battery for nonstop gaming from a single charge. With a lightweight design, seven configurable buttons and integrated Aura RGB illumination, Pugio II is the ultimate sidearm for every elite gamers.",
+    "BRAND": "Asus"
+  },
+  {
+    "Id": "15",
+    "PRODUCT": "ASUS ROG Chakram",
+    "GRAPHIC": "placeholderpicture15",
+    "COST": "119.99",
+    "MSRP": "159.99",
+    "STOCK": "0",
+    "BACKORDERQTY": "5",
+    "DESCRIPTION": "ROG Chakram is a 16,000 dpi, tri-mode wired, 2.4GHz RF and Bluetooth® LE mouse with a programmable, removable joystick that puts superior control right under your thumb. With fast charging, plus wireless Qi, pivoted buttons, detachable magnetic covers and a unique DPI On-The-Scroll feature for easy accuracy adjustment, Chakram is fearsome new fighting force on the gaming front.",
+    "BRAND": "Asus"
+  }
+]
